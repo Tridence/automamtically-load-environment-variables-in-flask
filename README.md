@@ -1,1 +1,1 @@
-Article: https://prettyprinted.com/tutorials/automatically_load_environment_variables_in_flask
+Find the article on how to use flask env variables: https://dev.to/tridence/automatically-load-environment-variables-in-flask-2nbi
